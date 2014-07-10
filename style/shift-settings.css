@@ -1,12 +1,12 @@
 /*Blue*/
 .blue,
-#blog_page_link,
-#blog_page_link .icon,
-#blog_page_link span.label,
-.section_header .section_title a span.icon, 
+#email_link,
+#email_link .icon,
+#email_link span.label,
+.section_header .section_title a span.icon,
 .section_header .section_title strong span.icon,
-.blog_section .section_header .section_title .section_name  { 
-	background-color: #327ea3; 
+.blog_section .section_header .section_title .section_name  {
+	background-color: #327ea3;
 }
 /*Aqua*/
 .aqua,
@@ -31,7 +31,7 @@
 #resume_link,
 #resume_link span.label,
 #resume_link span.icon ,
-.section_header.gallery .section_title strong span.section_name, 
+.section_header.gallery .section_title strong span.section_name,
 .section_header.gallery .section_title strong span.icon {
 	background-color: #6ca338;
 }
@@ -61,7 +61,7 @@
 #resume_link_download  span.icon {
 	background: #019875;
 }
-.section_header.status .section_title strong span.section_name, 
+.section_header.status .section_title strong span.section_name,
 .section_header.status .section_title strong span.icon {
 	background-color: #ebb72c;
 }
